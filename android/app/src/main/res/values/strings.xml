@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Kevin GPS</string>
+    <string name="title_activity_main">Kevin GPS</string>
+    <string name="package_name">com.kevin.gpsmobile</string>
+    <string name="custom_url_scheme">com.kevin.gpsmobile</string>
+</resources>
